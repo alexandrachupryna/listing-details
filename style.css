@@ -87,6 +87,7 @@ main #book_window input[type="submit"] {
   color: #fff;
   margin-bottom: 0;
   margin-top: 24px;
+  border: none;
 }
 main #date {
   margin-bottom: 16px;
